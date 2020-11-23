@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    
+}
+
+#apps{
+    width:100%;
+    height:800px;
+    background-color: deeppink;
+}
+
+#games{
+    width:100%;
+        height:600px;
+    background-color: darkviolet;
+}
+
+#chatbot{
+    width:100%;
+    height:600px;
+    background-color: darkturquoise;
+}
+
+img{
+    transition:transform 0.5s;
+    
+    
+}
+
+img:hover{
+    transform: scale(0.7);
+}
+
+.line{
+    width: 100px;
+    height: 10px;
+    background-color: black;
+    margin: 8px auto;
+}
+
+
+#app1{
+    padding-right: 50px;
+}
